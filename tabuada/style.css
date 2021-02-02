@@ -1,0 +1,45 @@
+.title {
+    background-color: white;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.control button {
+    color: black;
+    font-style: italic; 
+    width: 50px;
+    height: 40px;
+    margin: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.control button:hover {
+    background-color: #D3D3D3;
+}
+
+.return {
+    color: black;
+    font-style: italic; 
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+li {
+    margin: 8px;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.selected {
+    background-color:#D3D3D3;
+}
+
+.control {
+    padding-left: 25px;
+}
